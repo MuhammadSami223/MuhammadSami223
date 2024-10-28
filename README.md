@@ -1,4 +1,4 @@
-![Banner](https://github.com/MuhammadSami223/Muhammad-Sami/blob/8fe22c42074bca8f34e1c2ca8f0ede492a42e66d/banner2.png)
+![Banner](https://github.com/MuhammadSami223/MuhammadSami223/blob/2d1e92cb9606b16d62f01b2cad1c119855013536/banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Sami</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/> -->
